@@ -1,2 +1,2 @@
 # lkKindomPvp
-洛克王国pvp脚本
+洛克王国：世界pvp挂机刷钱脚本
